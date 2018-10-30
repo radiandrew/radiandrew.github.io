@@ -1,1 +1,37 @@
 /*! Place your custom styles here */
+/* Only troubleshooting
+h4 {
+	color:#252525 !important
+} */
+
+.blacktxt {
+	color:#252525 !important;
+}
+.process__subtitle {
+	margin-bottom: 0.2em;
+	font-weight: bold;
+}
+.side_img {
+	max-width: 25em;
+	max-height: 25em;
+	width: auto;
+	height: auto;
+	display: block;
+	margin-top: auto;
+	margin-bottom: auto; 
+	margin-right: 3em;
+}
+.mysocicon{
+	max-width: 20px;
+	max-height: 20px;
+	margin-left: 0.3em;
+}
+.myicon{
+	max-width:3em;
+	max-height:3em;
+	margin: 2em;
+}
+.mycredit{
+	color:rgba(255,255,255,0.4);
+	display:inline-block;
+}
